@@ -1,15 +1,4 @@
-# match-app
+# かぐや様は告らせたい×俺ガイルでつくるクソ鬼畜マッチングアプリ♡
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+今回は、てるしーくんが作るクソ鬼畜マッチングアプリ♡となるものをつくりました。
+恋愛ってクソ鬼畜ですよね。人生って諸行無常とはよく言ったものです。
