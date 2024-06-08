@@ -97,6 +97,7 @@ export const main = () => {
             men[women[womenRandom].pair].matchProbability = 0
 
             women[womenRandom].pair = menRandom
+            women[womenRandom].matchProbability = attackProbability
         } else {
             console.log(
                 `${women[womenRandom].name}は${
